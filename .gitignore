@@ -5,3 +5,7 @@
 /.vs
 
 
+/DMProject/.vs
+/DMProject/DmProject/bin/Debug/net8.0
+/DMProject/DmProject/obj/Debug/net8.0
+/DMProject/DmProject/obj
